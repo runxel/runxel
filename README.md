@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🎇 I'm an architect (_like in building_) who writes code.  
+
+🔭 Always looking for job opportunities!
+
+⚡💾 [software stack I use](https://github.com/runxel/uses)
+
 <!--
 **runxel/runxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
