@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-🎇 I'm an architect (_like in building_) who writes code.  
+🎇 I'm an architect (_like in building_) and designer who writes code.  
 
-🔭 Always looking for job opportunities!
+🔭 Always looking for job opportunities!  
+I have extensive knowledge in [Archicad](https://runxel.xyz/archicad-wiki) and [GDL object creating](https://runxel.xyz/archicad-objects/), as well in [Rhino + Grasshopper](https://runxel.xyz/rhino-secrets/) (including [RhinoCommon](https://github.com/runxel/rhino-scripts)), and robotics.  
 
 ⚡💾 [software stack I use](https://github.com/runxel/uses)
+
+📫 [@runxel](https://twitter.com/runxel)
 
 <!--
 **runxel/runxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
