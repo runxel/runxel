@@ -9,10 +9,14 @@ I have extensive knowledge in [Archicad](https://runxel.xyz/archicad-wiki) and [
 
 📫 [@runxel](https://twitter.com/runxel)
 
+---
+
+<a href="https://octo-ring.com/p/runxel/random"><img align="left" alt="Octo Ring logo" src="https://octo-ring.com/static/img/octo.png" width="64px" /></a>
+
+««« Click on the 🐙 to visit a random profile in the [Octo Ring](https://octo-ring.com/) «««
+
 <!--
 **runxel/runxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
