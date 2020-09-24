@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> Be the {change|PR|commit|open source repo} you want to see in the world.
+
 🎇 I'm an architect (_like in building_) and designer who writes code.  
 
 🔭 Always looking for job opportunities!  
@@ -8,6 +10,10 @@ I have extensive knowledge in [Archicad](https://runxel.xyz/archicad-wiki) and [
 ⚡💾 [software stack I use](https://github.com/runxel/uses)
 
 📫 [@runxel](https://twitter.com/runxel)
+
+<br>
+
+> _«Play stupid games, win stupid prizes.»_
 
 ---
 
